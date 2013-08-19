@@ -1,0 +1,65 @@
+{
+	"title": "PodWG",
+	"tagline": "The Easiest Way To Document Your Project",
+	
+	"email":"info@podwg.de",
+
+
+	"button_1_link": "Blick_in_die_WG",
+	"button_1_name": "Einführung",
+
+	"button_2_link": "Kleine_Einleitung",
+	"button_2_name": "Hilfe",
+
+	"button_3_link": "Unser_Chat",
+	"button_3_name": "Chat",
+
+	"button_4_link": "http://podhoerer.de/",
+	"button_4_name": "Für Podcasthörer",
+
+	"button_5_link": "Willkommen",
+	"button_5_name": "ReliveRadio",
+
+
+	"teamspeakip":	"46.105.147.220:11023",
+	"mumbleip":		"178.33.169.91 Port 11034",
+
+
+	"flattr": "https://flattr.com/thing/868218/PodWG-de",
+
+
+	"google_analytics": "UA-12653604-10",
+	"piwik_analytics": "my-url-for-piwik.com",
+
+
+	"links": {
+		"Für Podcast Hörer": "http://podhoerer.de/",
+		"EtherPad (Kostenlos!)": "http://78.46.151.106:9001/",
+		"Die Podcast Community": "http://podunion.com",
+		"Ein Podcast Verzeichnis": "http://podbe.wikibyte.org",
+		"Das Podcast Radio": "http://podbe.wikibyte.org"
+	},
+
+
+
+
+
+
+	"theme": "custom",
+	"colorbg": "#fd7800",
+	"colors": {
+		"sidebar-background": "#f7f7f7",
+		"sidebar-hover": "#c5c5cb",
+		"lines": "#e7e7e9",
+		"dark": "#fd7800",
+		"light": "#444",
+		"linkers": "#fd7800",
+		"pre": "#eee",
+		"text": "#000",
+		"syntax-string": "#022e99",
+		"syntax-comment": "#84989b",
+		"syntax-number": "#2f9b92",
+		"syntax-label": "#840d7a"
+	},
+	"timezone": "Europe/Berlin"
+}
