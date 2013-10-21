@@ -61,5 +61,9 @@
 		"syntax-number": "#2f9b92",
 		"syntax-label": "#840d7a"
 	},
-	"timezone": "Europe/Berlin"
+	"timezone": "Europe/Berlin",
+	
+	"ignore": {
+    	"folders": ["100_Hilfe"]
+	}  
 }
