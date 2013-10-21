@@ -50,7 +50,7 @@ if ($homepage && $homepage_url !== '/') {
 		list-style:square;
 		margin-left: 17px;
 	}
-	
+	div#topcontrol,
 	a.flex-prev,
 	a.flex-next { display:none!important;}
  </style>
