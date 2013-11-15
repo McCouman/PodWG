@@ -59,6 +59,6 @@
 	"timezone": "Europe/Berlin",
 	
 	"ignore": {
-    	"folders": ["100_Hilfe"]
+    		"folders": ["05_More_Examples"]
 	}  
 }
