@@ -21,7 +21,7 @@ z.B.: 03_Neu_Hier.md
 
 2.) Öffne die Datein einfach mit einem Text Editor
 
-3.) Du kannst Markdown verwenden oder HTML
+3.) Du kannst [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) verwenden oder HTML
 
 
 ##Settings ändern
